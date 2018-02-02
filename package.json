@@ -1,0 +1,16 @@
+{
+  "name": "place-search",
+  "version": "0.0.1",
+  "description": "A client JavaScript library to search places.",
+  "main": "index.js",
+  "repository": "https://github.com/SayMosaic/email-parser",
+  "author": "Xuezheng Ma <xuezhma@gmail.com>",
+  "license": "Apache License 2.0",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "nyc": "^11.3.0"
+  },
+  "scripts": {
+    "test": "nyc mocha"
+  }
+}
