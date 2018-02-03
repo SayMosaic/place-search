@@ -12,5 +12,10 @@
   },
   "scripts": {
     "test": "nyc mocha"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bluebird": "^3.5.1",
+    "qs": "^6.5.1"
   }
 }
